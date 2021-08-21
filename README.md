@@ -1,6 +1,7 @@
 ## catatonit ##
 
 [![Build Status](https://travis-ci.org/openSUSE/catatonit.svg?branch=master)](https://travis-ci.org/openSUSE/catatonit)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsunilchadha1973%2Fcatatonit.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsunilchadha1973%2Fcatatonit?ref=badge_shield)
 
 A container init that is so simple it's effectively brain-dead. This is a
 rewrite of [initrs][initrs] in C, because we found that it is not possible to
@@ -65,3 +66,6 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
 ```
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsunilchadha1973%2Fcatatonit.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsunilchadha1973%2Fcatatonit?ref=badge_large)
